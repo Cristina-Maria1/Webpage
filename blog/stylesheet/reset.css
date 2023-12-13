@@ -1,0 +1,22 @@
+body, body * {
+    margin:unset;
+    padding:unset;
+    font-size:unset;
+    box-sizing:unset;
+    text-decoration:unset;
+    color:unset;
+}
+
+body{
+    background-color: var(--teallight);
+    
+}
+
+:root{
+    font: 20px/ 1.5 Roboto, sans-serif;
+    --teal:#82b5cb;
+    --teallight:rgb(241, 235, 242);
+    --purple:#6768ab;
+    --purplelight:rgb(219, 208, 232);
+    --darkblue:#282049;
+}
